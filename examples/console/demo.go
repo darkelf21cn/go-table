@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	gotable "go-table"
+
+	gotable "github.com/darkelf21cn/go-table"
 )
 
 var (

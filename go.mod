@@ -1,4 +1,4 @@
-module go-table
+module github.com/darkelf21cn/go-table
 
 go 1.22.5
 
